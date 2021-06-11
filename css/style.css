@@ -3,6 +3,7 @@ body{
     margin: 0px;
     padding: 0px;
     background: url('../images/bg.jpg');
+    background-repeat: no-repeat;
     height: 100%;
     font-family: 'Baloo Bhaina 2', cursive;
 }
