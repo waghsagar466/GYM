@@ -2,7 +2,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('/images/bg.jpg');
+    background: url('../images/bg.jpg');
     height: 100%;
     font-family: 'Baloo Bhaina 2', cursive;
 }
