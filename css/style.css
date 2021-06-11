@@ -2,7 +2,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('https://github.com/waghsagar466/gym/blob/main/images/bg.jpg');
+    img: url('https://github.com/waghsagar466/gym/blob/main/images/bg.jpg');
     height: 100%;
     font-family: 'Baloo Bhaina 2', cursive;
 }
